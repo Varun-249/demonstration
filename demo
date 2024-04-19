@@ -1,0 +1,10 @@
+# My Project
+
+Welcome to my project! This is a brief description of what the project is about.
+
+## Installation
+
+You can install this project by following these steps:
+
+1. Clone the repository: `git clone <repository_url>`
+2. Install dependencies: `pip install -r requirements.txt`
